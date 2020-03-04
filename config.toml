@@ -1,0 +1,13 @@
+baseURL = "https://0-0.today/"
+languageCode = "en-us"
+title = "0-0 Today"
+theme = "hyde"
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/watsy0007/"},
+  ]
+
+[params]
+  description = "Your custom description"
+  layoutReverse = true
