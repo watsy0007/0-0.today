@@ -1,7 +1,7 @@
 ---
 title: "程序员日常工作中遇到问题怎么办?"
 date: 2020-05-20T12:43:09+08:00
-draft: true
+draft: false
 tags: ["总结"]
 categories: ["总结"]
 ---
