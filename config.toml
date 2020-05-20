@@ -1,4 +1,4 @@
-baseURL = "http://0-0.today/"
+baseURL = "https://0-0.today/"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "watsy0007"
